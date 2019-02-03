@@ -8,7 +8,7 @@ It's a brief specification about project dependencies, how to run and coding tec
 1-	Spring Boot project – created from Spring Initializer (web link - https://start.spring.io )
 No other dependencies (web, Security, JPA etc) required.
 
-2-	Under the <build> and <plugins> tag of POM file, I have used “repackage” to build the executable jar file. (snapshot below)  
+2-	Under the <build> and <plugins> tag of POM file, I have used “repackage” to build the executable jar file.
 
 3-	To run the jar file – open command prompt/terminal then navigate to the directory where jar file is placed and run the jar file by using the below command (assuming java is installed, and class path is updated accordingly.)
  java -jar TameOfThrones-0.0.1-SNAPSHOT.jar
