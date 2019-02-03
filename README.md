@@ -1,7 +1,10 @@
 # EverestEngineeringCodingChallenge
-Tame of Thrones
-This document contains brief specification about project dependencies, how to run and coding technologies used.
-Dependencies – 
+
+#Tame of Thrones
+
+It's a brief specification about project dependencies, how to run and coding technologies used.
+
+#Dependencies – 
 1-	Spring Boot project – created from Spring Initializer (web link - https://start.spring.io )
 No other dependencies (web, Security, JPA etc) required.
 
@@ -11,7 +14,9 @@ No other dependencies (web, Security, JPA etc) required.
  java -jar TameOfThrones-0.0.1-SNAPSHOT.jar
 
 4-	For a sample try you can use the CodingChallenge.pdf commands, which came with the test.
-Coding Technologies – 
+
+#Coding Technologies – 
+
 1-	Java is used as the programming language to write the complete logic.
 2-	Clean Code practices are followed to keep it neat and readable.
 (Still, refactoring is possible)
